@@ -484,3 +484,5 @@ result_box.insert(
     "Тут з’явиться рекомендація після натискання кнопки."
 )
 result_box.config(state="disabled")
+
+root.mainloop()
